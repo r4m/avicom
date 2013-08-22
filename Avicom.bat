@@ -1,0 +1,1 @@
+matlab /minimize /nosplash /nodesktop /r Avicom
